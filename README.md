@@ -7,10 +7,9 @@ Develop a Weather Clothing Guide Bot that prompts users to type in their city an
 
 Hints:-
 
-Get the user's city name and email address to send the report to. 
-Search on google for the temperature of that city in degrees Celsius.
-Send the report to the email address using the format in the text file and attached an image sample depending on
-the result of the temperature of that city.
+- Get the user's city name and email address to send the report to. 
+- Search on google for the temperature of that city in degrees Celsius.
+- Send the report to the email address using the format in the text file and attached an image sample depending on the result of the temperature of that city.
 
 Concepts you will learn:
 - Web Automation
